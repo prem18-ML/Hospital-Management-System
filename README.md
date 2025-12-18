@@ -6,7 +6,7 @@ A Python-based application designed to streamline hospital operations by managin
 * **Patient Management:** Register new patients and maintain digital health records.
 * **Doctor Records:** Track doctor availability and specializations.
 * **Appointment System:** Book and manage patient consultations.
-* **Billing:** (Optional) Generate invoices for medical services.
+
 
 ## 🛠️ Tech Stack
 * **Language:** Python
